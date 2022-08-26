@@ -1,6 +1,6 @@
 # ODS Request Form
 
-## This is an Autoresponder + Tasker for partners who want to try out B2C technologies using an On Demand Sandbox
+> This is an Autoresponder + Tasker for partners who want to try out B2C technologies using an On Demand Sandbox
 
 ## Configuration
 
