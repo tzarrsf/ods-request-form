@@ -8,11 +8,11 @@ Run as JT, Notify Immediately on Error, onFormSubmit throughout
 
 ##Relevant Form
 
-https://docs.google.com/forms/d/e/1FAIpQLScy4k8RN67Ldf92z5amSEJoAyiszrjCdnj2Knw27QiiBg2e7g/viewform
+https://docs.google.com/forms/d/1xTuJ7n0iV5JnFQs0HcQskPkh4clB91mfj62cQcNdcpM/edit
 
 ##Relevant Sheet
 
-https://docs.google.com/spreadsheets/d/1rWCZfh43UuAbdPE8Rp524OeZ1H6u_HsDhXK8w92In7M/edit?resourcekey#gid=1792161020
+https://docs.google.com/spreadsheets/d/1McZC5Brg6wLDCAIo7gEYjbyP20CrFfV8GK4d04nBsi4/edit?resourcekey#gid=634459441
 
 Code.gs is loaded into Extensions > Apps Script (from the top menu)
 
